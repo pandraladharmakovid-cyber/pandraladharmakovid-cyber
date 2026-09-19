@@ -9,7 +9,7 @@ Building practical software, AI-powered tools, and developer-focused projects.
 <br>
 
 <a href="https://github.com/pandraladharmakovid-cyber"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/pandrala-dharma-kovidh-undefined-0b1b36357/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/pandrala-dharma-kovidh-0b1b36357/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://www.instagram.com/pandraladharmakovidh/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 <a href="https://app.bytexl.ai/@pandraladharmakovidh"><img src="https://img.shields.io/badge/ByteXL-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="ByteXL"/></a>
 <a href="mailto:pandraladharmakovid@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -62,7 +62,7 @@ I use AI to research, prototype, solve problems, and move faster — while still
 <table>
 <tr>
 <td align="center" width="20%">
-<a href="https://github.com/pandraladharmakovid-cyber/unrestricted-ai-interface">
+<a href="https://github.com/pandraladharmakovid-cyber/unrestricted-ai-interface" target="_blank" rel="noopener noreferrer">
 <h3>🤖</h3>
 <b>Unrestricted AI Interface</b>
 <br>
@@ -71,7 +71,7 @@ I use AI to research, prototype, solve problems, and move faster — while still
 </td>
 
 <td align="center" width="20%">
-<a href="https://github.com/pandraladharmakovid-cyber/ai-tools-directory">
+<a href="https://github.com/pandraladharmakovid-cyber/ai-tools-directory" target="_blank" rel="noopener noreferrer">
 <h3>🧰</h3>
 <b>AI Tools Directory</b>
 <br>
@@ -80,7 +80,7 @@ I use AI to research, prototype, solve problems, and move faster — while still
 </td>
 
 <td align="center" width="20%">
-<a href="https://github.com/pandraladharmakovid-cyber/editor-x">
+<a href="https://github.com/pandraladharmakovid-cyber/editor-x" target="_blank" rel="noopener noreferrer">
 <h3>🖥️</h3>
 <b>EDITOR X</b>
 <br>
@@ -89,7 +89,7 @@ I use AI to research, prototype, solve problems, and move faster — while still
 </td>
 
 <td align="center" width="20%">
-<a href="https://github.com/pandraladharmakovid-cyber/Ai-agent-developer">
+<a href="https://github.com/pandraladharmakovid-cyber/Ai-agent-developer" target="_blank" rel="noopener noreferrer">
 <h3>🤖</h3>
 <b>AI Developer Agent</b>
 <br>
@@ -98,7 +98,7 @@ I use AI to research, prototype, solve problems, and move faster — while still
 </td>
 
 <td align="center" width="20%">
-<a href="https://github.com/pandraladharmakovid-cyber/phishguard-phishing-simulation">
+<a href="https://github.com/pandraladharmakovid-cyber/phishguard-phishing-simulation" target="_blank" rel="noopener noreferrer">
 <h3>🛡️</h3>
 <b>PhishGuard</b>
 <br>
@@ -154,7 +154,7 @@ I use AI to research, prototype, solve problems, and move faster — while still
 
 <br><br>
 
-<a href="https://www.linkedin.com/in/pandrala-dharma-kovidh-undefined-0b1b36357/">
+<a href="https://www.linkedin.com/in/pandrala-dharma-kovidh-0b1b36357/" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/LinkedIn-Pandrala%20Dharma%20Kovidh-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
 </a>
 
