@@ -1,407 +1,1971 @@
-<!--
-╔══════════════════════════════════════════════════════════════════════╗
-║              DHARMA KOVIDH — CYBERPUNK PROFILE                    ║
-║              ONE FILE • GITHUB NATIVE • ANIMATED                  ║
-╚══════════════════════════════════════════════════════════════════════╝
--->
-
 <div align="center">
 
-<!-- ANIMATED NEON HEADER -->
+PANDRALA DHARMA KOVIDH
 
-<img
-src="https://capsule-render.vercel.app/api?type=waving&height=330&section=header&text=DHARMA%20KOVIDH&fontSize=68&fontAlignY=37&desc=AI%20%2F%20SOFTWARE%20%2F%20EXPERIMENTS&descAlignY=57&descSize=16&fontColor=FFFFFF&animation=twinkling&color=0:03040B,18:10152D,42:32144B,68:9B3D7B,86:EF4FAE,100:FF8CCB"
-width="100%"
-alt="Animated Dharma Kovidh cyberpunk header"
-/>
+AI-Focused Developer · Software Builder · Student
+
+Building practical software, AI-powered tools, and developer-focused projects.
 
 <br>
 
-<!-- ANIMATED TERMINAL LINE -->
-
-<img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=1800&pause=500&color=FF69B4&background=00000000&center=true&vCenter=true&repeat=true&width=900&height=55&lines=%3E+initializing+dharma.exe;%3E+loading+AI+systems...;%3E+building+something+new...;%3E+status%3A+ONLINE+%E2%9C%A6"
-alt="Animated terminal typing"
-/>
-
-<br>
-
-<code>AI DEVELOPER</code>
-  <code>BUILDER</code>
-  <code>PROBLEM SOLVER</code>
+<a href="https://github.com/pandraladharmakovid-cyber"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/pandrala-dharma-kovidh-undefined-0b1b36357/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.instagram.com/pandraladharmakovidh/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://app.bytexl.ai/@pandraladharmakovidh"><img src="https://img.shields.io/badge/ByteXL-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="ByteXL"/></a>
+<a href="mailto:pandraladharmakovid@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 <br><br>
 
-<a href="https://github.com/pandraladharmakovid-cyber">
-<img src="https://img.shields.io/github/followers/pandraladharmakovid-cyber?style=for-the-badge&label=FOLLOWERS&logo=github&logoColor=FFFFFF&labelColor=080A12&color=FF69B4" alt="Followers">
-</a>
-<a href="https://github.com/pandraladharmakovid-cyber?tab=repositories">
-<img src="https://img.shields.io/github/stars/pandraladharmakovid-cyber?style=for-the-badge&label=STARS&logo=github&logoColor=FFFFFF&labelColor=080A12&color=EF93C4" alt="Stars">
-</a>
-<img src="https://komarev.com/ghpvc/?username=pandraladharmakovid-cyber&style=for-the-badge&color=F8BBD0&label=VISITORS" alt="Profile views">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2600&pause=1000&color=58A6FF&center=true&vCenter=true&width=780&height=32&lines=AI+%E2%80%A2+Software+Development+%E2%80%A2+Developer+Tools;Building+projects+that+solve+real+problems." alt="Professional developer introduction"/>
 
 </div>
 
-<br><br>
-
-<!-- ═══════════════════════════════════════════════════════════════
-                         SYSTEM PANEL
-     ═══════════════════════════════════════════════════════════════ -->
-
-<table width="100%">
-<tr>
-<td width="58%" valign="top">
-
-◢ SYSTEM.IDENTITY
-
-╭────────────────────────────────────────────╮
-│                                            │
-│  NAME       Dharma Kovidh                 │
-│  ROLE       AI Developer / Builder        │
-│  LOCATION   Hyderabad, India              │
-│  MODE       BUILD                         │
-│  STATUS     ● ONLINE                      │
-│                                            │
-╰────────────────────────────────────────────╯
-
-whoami
-
-I'm an AI-focused developer who enjoys taking unusual ideas, understanding how they work, and turning them into real software.
-
-My playground is the intersection of:
-
-AI × Web × APIs × Automation × Developer Tools
-
-I learn by building — then I improve what I build.
-
-</td>
-
-<td width="42%" align="center" valign="middle">
-
-<img src="https://github.com/pandraladharmakovid-cyber.png" width="230" alt="Dharma Kovidh">
-
-<br><br>
-
-<img src="https://img.shields.io/badge/SYSTEM-ONLINE-0B0D17?style=for-the-badge&labelColor=0B0D17&color=FF69B4">
-
-<br><br>
-
-<sub>CURIOUS BY DEFAULT</sub><br>
-<sub>BUILDING BY CHOICE</sub><br>
-<sub>LEARNING BY DOING</sub>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════════
-                         SIGNAL / FOCUS
-     ═══════════════════════════════════════════════════════════════ -->
+🧠 ABOUT ME
 
 <div align="center">
 
-◢ CURRENT_SIGNAL
-
-<img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2300&pause=800&color=F8BBD0&center=true&vCenter=true&repeat=true&width=850&height=45&lines=EXPLORING+AI+%26+AGENTS;BUILDING+DEVELOPER+TOOLS;EXPERIMENTING+WITH+APIS;TURNING+IDEAS+INTO+PRODUCTS;NEXT+PROJECT+LOADING..."
-alt="Animated current focus"
-/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=18&duration=1700&pause=450&color=FACC15&center=true&vCenter=true&width=900&height=55&lines=%F0%9F%91%8B+HEY%2C+I%27M+DHARMA+KOVIDH;%F0%9F%8E%93+STUDENT;%F0%9F%A4%96+AI-FOCUSED+DEVELOPER;%F0%9F%92%BB+SOFTWARE+BUILDER;%F0%9F%9A%80+IDEA+%E2%86%92+CODE+%E2%86%92+REALITY" alt="Animated introduction"/>
 
 </div>
 
-<br>
+I'm a student and AI-focused developer who likes building real software with AI at the center of the workflow.
 
-<!-- ═══════════════════════════════════════════════════════════════
-                         SKILLS
-     ═══════════════════════════════════════════════════════════════ -->
+I use AI to research, prototype, solve problems, and move faster — while still caring about the architecture, code, debugging, and engineering behind the result.
 
 <div align="center">
 
-◢ TECH_MATRIX
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=1450&pause=350&color=22C55E&center=true&vCenter=true&width=900&height=55&lines=%24+whoami;%3E+AI+DEVELOPER;%24+mode;%3E+BUILD;%24+tool;%3E+AI+%2B+CODE;%24+status;%3E+ONLINE+%E2%9C%93" alt="Animated terminal"/>
 
-<br>
+</div>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,git,github,postgres,vscode&perline=10&theme=dark" alt="Technology stack">
+⚡ THE STACK
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs,express,postgresql,docker,git,github,vscode,npm,vercel&perline=7" alt="Technology stack"/>
 
 <br><br>
+
+<img src="https://img.shields.io/badge/AI%20%26%20LLMs-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Agents-4F46E5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Automation-0891B2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST%20APIs-0EA5E9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</div>
+
+🎮 COMPLETED PROJECTS
+
+<div align="center">
 
 <table>
 <tr>
-<td align="center"><b>01</b><br><sub>WEB</sub><br><br>HTML · CSS · JavaScript<br>React · UI</td>
-<td align="center"><b>02</b><br><sub>BACKEND</sub><br><br>Node.js · APIs<br>PostgreSQL</td>
-<td align="center"><b>03</b><br><sub>AI</sub><br><br>AI APIs · Agents<br>Experiments</td>
-<td align="center"><b>04</b><br><sub>WORKFLOW</sub><br><br>Git · GitHub<br>VS Code · Automation</td>
-</tr>
-</table>
-
-</div>
-
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════════
-                         BUILD LOG
-     ═══════════════════════════════════════════════════════════════ -->
-
-◢ BUILD_LOG
-
-<div align="center">
-
-<sub>SELECTED SYSTEMS SHIPPED</sub>
-
-</div>
-
-<br>
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-01 / AI TOOLS DIRECTORY
-
-1,012 AI tools.
-
-A curated discovery platform for exploring AI tools across multiple categories.
-
-TYPE       DIRECTORY
-SCALE      1,012 TOOLS
-FOCUS      DISCOVERY
-STACK      REACT / JAVASCRIPT
-
-<a href="https://github.com/pandraladharmakovid-cyber/ai-tools-directory">
-<img src="https://img.shields.io/badge/OPEN_SYSTEM-0B0D17?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=EF93C4&color=EF93C4">
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-02 / AI AGENT DEVELOPER
-
-Software engineering with AI.
-
-An AI-powered developer agent focused on software-building workflows and tooling.
-
-TYPE       DEVELOPER AGENT
-FOCUS      SOFTWARE ENGINEERING
-STACK      NODE / AI / POSTGRES
-MODE       AUTOMATION
-
-<a href="https://github.com/pandraladharmakovid-cyber/Ai-agent-developer">
-<img src="https://img.shields.io/badge/OPEN_SYSTEM-0B0D17?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=FF69B4&color=FF69B4">
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-03 / EDITOR X
-
-Code in the browser.
-
-A browser-based development environment built for experimenting with code.
-
-TYPE       DEVELOPER TOOL
-FOCUS      BROWSER IDE
-STACK      HTML / CSS / JS
-
-<a href="https://github.com/pandraladharmakovid-cyber/editor-x">
-<img src="https://img.shields.io/badge/OPEN_SYSTEM-0B0D17?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=F8BBD0&color=F8BBD0">
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-04 / PHISHGUARD
-
-Security awareness simulation.
-
-A controlled phishing simulation designed for cybersecurity education and safe testing.
-
-TYPE       SECURITY
-FOCUS      AWARENESS
-STACK      WEB
-MODE       SIMULATION
-
-<a href="https://github.com/pandraladharmakovid-cyber/phishguard-phishing-simulation">
-<img src="https://img.shields.io/badge/OPEN_SYSTEM-0B0D17?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=EF93C4&color=EF93C4">
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td colspan="2" valign="top">
-
-05 / UNRESTRICTED AI INTERFACE
-
-An experimental AI interface.
-
-A project exploring conversational interaction, AI integration and modern web interface design.
-
-TYPE       AI INTERFACE
-FOCUS      CONVERSATION / UX
-STACK      JAVASCRIPT / AI / WEB
-
+<td align="center" width="20%">
 <a href="https://github.com/pandraladharmakovid-cyber/unrestricted-ai-interface">
-<img src="https://img.shields.io/badge/OPEN_SYSTEM-0B0D17?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=FF69B4&color=FF69B4">
+<h3>🤖</h3>
+<b>Unrestricted AI Interface</b>
+<br>
+<sub>JavaScript</sub>
 </a>
+</td>
 
+<td align="center" width="20%">
+<a href="https://github.com/pandraladharmakovid-cyber/ai-tools-directory">
+<h3>🧰</h3>
+<b>AI Tools Directory</b>
+<br>
+<sub>1,012 AI tools</sub>
+</a>
+</td>
+
+<td align="center" width="20%">
+<a href="https://github.com/pandraladharmakovid-cyber/editor-x">
+<h3>🖥️</h3>
+<b>EDITOR X</b>
+<br>
+<sub>Browser IDE</sub>
+</a>
+</td>
+
+<td align="center" width="20%">
+<a href="https://github.com/pandraladharmakovid-cyber/Ai-agent-developer">
+<h3>🤖</h3>
+<b>AI Developer Agent</b>
+<br>
+<sub>Level 2</sub>
+</a>
+</td>
+
+<td align="center" width="20%">
+<a href="https://github.com/pandraladharmakovid-cyber/phishguard-phishing-simulation">
+<h3>🛡️</h3>
+<b>PhishGuard</b>
+<br>
+<sub>Security simulation</sub>
+</a>
 </td>
 </tr>
 </table>
 
 <br>
 
-<!-- ═══════════════════════════════════════════════════════════════
-                       LIVE TELEMETRY
-     ═══════════════════════════════════════════════════════════════ -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=900&pause=220&color=F472B6&center=true&vCenter=true&width=1000&height=55&lines=%5B01%5D+UNRESTRICTED+AI+INTERFACE;%5B02%5D+AI+TOOLS+DIRECTORY;%5B03%5D+EDITOR+X;%5B04%5D+AI+DEVELOPER+AGENT;%5B05%5D+PHISHGUARD" alt="Animated project ticker"/>
+
+</div>
+
+🐍 CONTRIBUTION JOURNEY
 
 <div align="center">
 
-◢ LIVE_TELEMETRY
-
-<br>
-
-<img
-src="https://github-readme-streak-stats.herokuapp.com/?user=pandraladharmakovid-cyber&theme=transparent&hide_border=true&background=080A12&ring=FF69B4&fire=FF69B4&currStreakLabel=F8BBD0&sideLabels=EF93C4&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9E8A96"
-width="92%"
-alt="GitHub contribution streak"
-/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake animation"/>
 
 <br><br>
 
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=pandraladharmakovid-cyber&bg_color=080A12&color=F8BBD0&line=FF69B4&point=FFFFFF&area=true&area_color=8B2A60&hide_border=true&custom_title=DHARMA%20KOVIDH%20%E2%80%94%20ACTIVITY%20TELEMETRY"
-width="100%"
-alt="GitHub activity graph"
-/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=1300&pause=350&color=22D3EE&center=true&vCenter=true&width=850&height=50&lines=EVERY+SQUARE+TELLS+A+STORY.;KEEP+PUSHING.;KEEP+BUILDING.;KEEP+SHIPPING." alt="Animated contribution message"/>
 
 </div>
 
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════════
-                       CONTRIBUTION FLOW
-     ═══════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-◢ CONTRIBUTION_FLOW
-
-<br>
-
-<!--
-  Required GitHub Action:
-  Platane/snk/svg-only@v3
-
-  It publishes the animated contribution SVGs to the "output" branch.
--->
-
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pandraladharmakovid-cyber/pandraladharmakovid-cyber/output/github-contribution-grid-snake-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pandraladharmakovid-cyber/pandraladharmakovid-cyber/output/github-contribution-grid-snake.svg">
-<img
-src="https://raw.githubusercontent.com/pandraladharmakovid-cyber/pandraladharmakovid-cyber/output/github-contribution-grid-snake-dark.svg"
-width="100%"
-alt="Animated contribution snake">
-</picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pandraladharmakovid-cyber&bg_color=030712&color=8B5CF6&line=22D3EE&point=FFFFFF&area=true&hide_border=true" width="96%" alt="GitHub activity graph"/>
 
 </div>
 
-<br>
+<div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════
-                         MINDSET
-     ═══════════════════════════════════════════════════════════════ -->
+<img src="https://github-profile-trophy.vercel.app/?username=pandraladharmakovid-cyber&theme=onestar&no-frame=true&no-bg=true&margin-w=10&row=1" width="95%" alt="GitHub trophies"/>
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-◢ BUILD_PROTOCOL
-
-01  THINK
-02  DESIGN
-03  BUILD
-04  TEST
-05  BREAK
-06  DEBUG
-07  SHIP
-08  REPEAT
-
-</td>
-
-<td width="50%" valign="top">
-
-◢ DEVELOPER_STATE
-
-╭─────────────────────────────╮
-│                             │
-│  CURIOSITY      ██████████  │
-│  EXPERIMENT     █████████░  │
-│  LEARNING       ██████████  │
-│  BUILDING       ██████████  │
-│  COFFEE         ███████░░░  │
-│                             │
-╰─────────────────────────────╯
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════════
-                         CONNECT
-     ═══════════════════════════════════════════════════════════════ -->
+</div>
 
 <div align="center">
 
-◢ OPEN_CHANNEL
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=1200&pause=300&color=8B5CF6&center=true&vCenter=true&width=900&height=55&lines=THINK+%E2%86%92+BUILD+%E2%86%92+BREAK+%E2%86%92+DEBUG+%E2%86%92+SHIP;%3E+BUILD+SOMETHING+REAL.;%3E+MAKE+IT+BETTER." alt="Animated closing message"/>
 
-<br>
+</div>
+
+🌐 CONNECT
+
+<div align="center">
 
 <a href="https://github.com/pandraladharmakovid-cyber">
-<img src="https://img.shields.io/badge/GITHUB-080A12?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=FF69B4" alt="GitHub">
+<img src="https://img.shields.io/badge/GitHub-pandraladharmakovid--cyber-181717?style=for-the-badge&logo=github" alt="GitHub"/>
 </a>
-&nbsp;
+
+<br><br>
+
 <a href="https://www.linkedin.com/in/pandrala-dharma-kovidh-undefined-0b1b36357/">
-<img src="https://img.shields.io/badge/LINKEDIN-080A12?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=EF93C4" alt="LinkedIn">
+<img src="https://img.shields.io/badge/LinkedIn-Pandrala%20Dharma%20Kovidh-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
 </a>
-&nbsp;
+
+<br><br>
+
 <a href="https://www.instagram.com/pandraladharmakovidh/">
-<img src="https://img.shields.io/badge/INSTAGRAM-080A12?style=for-the-badge&logo=instagram&logoColor=FFFFFF&labelColor=FF69B4" alt="Instagram">
+<img src="https://img.shields.io/badge/Instagram-@pandraladharmakovidh-E4405F?style=for-the-badge&logo=instagram" alt="Instagram"/>
 </a>
-&nbsp;
-<a href="mailto:pandraladharmakovid@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-080A12?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=F8BBD0" alt="Email">
-</a>
-&nbsp;
+
+<br><br>
+
 <a href="https://app.bytexl.ai/@pandraladharmakovidh">
-<img src="https://img.shields.io/badge/BYTEXL-080A12?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF&labelColor=EF93C4" alt="byteXL">
+<img src="https://img.shields.io/badge/ByteXL-Profile-0B7285?style=for-the-badge&logo=googlechrome&logoColor=67E8F9" alt="ByteXL profile"/>
 </a>
 
 <br><br>
 
-<img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2800&pause=900&color=EF93C4&center=true&vCenter=true&repeat=true&width=850&height=40&lines=%3E+connection+established;%3E+thanks+for+visiting;%3E+see+you+in+the+next+build..."
-alt="Animated closing message"
-/>
+<a href="mailto:pandraladharmakovid@gmail.com">
+<img src="https://img.shields.io/badge/Email-pandraladharmakovid%40gmail.com-D14836?style=for-the-badge&logo=gmail" alt="Email"/>
+</a>
 
 <br><br>
 
-<sub>DHARMA KOVIDH • AI DEVELOPER • BUILDING THE NEXT IDEA</sub>
-
-<br><br>
-
-<img
-src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&animation=twinkling&color=0:03040B,25:15152C,50:4B1C4C,75:9B3D7B,100:FF69B4"
-width="100%"
-alt="Animated pink footer">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=1500&pause=450&color=22C55E&center=true&vCenter=true&width=850&height=50&lines=THANKS+FOR+VISITING.;SEE+YOU+IN+THE+NEXT+COMMIT.;%3E+EXIT%280%29%3B" alt="Animated goodbye"/>
 
 </div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:312e81,70:7c3aed,100:ec4899&height=180&section=footer&animation=twinkling" width="100%" alt="Animated footer"/>
+
+</div>
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
+<!-- animation-engine: arcade -->
+<!-- animation-engine: typing -->
+<!-- animation-engine: wave -->
+<!-- animation-engine: contribution -->
+<!-- animation-engine: ticker -->
+<!-- animation-engine: project-grid -->
+<!-- animation-engine: footer -->
+<!-- render-note: github-safe -->
+<!-- animation-engine: neon -->
+<!-- animation-engine: terminal -->
