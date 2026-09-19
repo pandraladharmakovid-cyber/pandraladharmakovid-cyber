@@ -63,7 +63,7 @@ I use AI to research, prototype, solve problems, and move faster — while still
 <tr>
 <td align="center" width="20%">
 <a href="https://github.com/pandraladharmakovid-cyber/unrestricted-ai-interface" target="_blank" rel="noopener noreferrer">
-<h3>🤖</h3>
+<div>🤖</div>
 <b>Unrestricted AI Interface</b>
 <br>
 <sub>JavaScript</sub>
@@ -72,7 +72,7 @@ I use AI to research, prototype, solve problems, and move faster — while still
 
 <td align="center" width="20%">
 <a href="https://github.com/pandraladharmakovid-cyber/ai-tools-directory" target="_blank" rel="noopener noreferrer">
-<h3>🧰</h3>
+<div>🧰</div>
 <b>AI Tools Directory</b>
 <br>
 <sub>1,012 AI tools</sub>
@@ -81,7 +81,7 @@ I use AI to research, prototype, solve problems, and move faster — while still
 
 <td align="center" width="20%">
 <a href="https://github.com/pandraladharmakovid-cyber/editor-x" target="_blank" rel="noopener noreferrer">
-<h3>🖥️</h3>
+<div>🖥️</div>
 <b>EDITOR X</b>
 <br>
 <sub>Browser IDE</sub>
@@ -90,7 +90,7 @@ I use AI to research, prototype, solve problems, and move faster — while still
 
 <td align="center" width="20%">
 <a href="https://github.com/pandraladharmakovid-cyber/Ai-agent-developer" target="_blank" rel="noopener noreferrer">
-<h3>🤖</h3>
+<div>🤖</div>
 <b>AI Developer Agent</b>
 <br>
 <sub>Level 2</sub>
@@ -99,7 +99,7 @@ I use AI to research, prototype, solve problems, and move faster — while still
 
 <td align="center" width="20%">
 <a href="https://github.com/pandraladharmakovid-cyber/phishguard-phishing-simulation" target="_blank" rel="noopener noreferrer">
-<h3>🛡️</h3>
+<div>🛡️</div>
 <b>PhishGuard</b>
 <br>
 <sub>Security simulation</sub>
