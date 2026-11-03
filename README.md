@@ -64,29 +64,7 @@
 
 <br>
 
-```typescript
-const dharma = {
-  name:       "Pandrala Dharma Kovidh",
-  role:       "AI-Focused Developer",
-  location:   "Hyderabad, India 📍",
-  pronouns:   "he/him",
-  status:     "Stuck btw thinking about new projects 😵",
-  
-  currentlyLearning: [
-    "Advanced AI Agents",
-    "System Architecture",
-    "Scalable Backend Design"
-  ],
-  
-  philosophy: [
-    "Ship fast.",
-    "Debug deeper.",
-    "Build real things.",
-    "AI as a weapon, not a crutch."
-  ],
-  
-  workflow: "Idea → Prototype → Build → Break → Debug → Ship"
-};
+```
 ```
 <br><br>
 
@@ -243,22 +221,7 @@ Nothing is real until it's live and used.
 
 </div>
 
-MISSION_LOG:
-  status:         "ACTIVE 🟢"
-  current_focus:  "Building AI-first products that solve real problems"
-  learning:       ["Advanced AI Agents", "System Design", "DevOps"]
-  shipping:       ["New features", "Portfolio improvements", "Open source"]
-  
-NEXT_UP:
-  - "🚀 Launch next AI-powered product"
-  - "🧠 Deepen expertise in autonomous agents"
-  - "🤝 Collaborate with other builders"
-  - "📝 Document the journey"
 
-CONTACT_PROTOCOL:
-  email:     "pandraladharmakovid@gmail.com"
-  linkedin:  "pandrala-dharma-kovidh"
-  response:  "Usually within 24 hours ⚡"
 
 
   <br><br>
