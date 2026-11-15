@@ -25,9 +25,9 @@ body{
   box-shadow:0 60px 120px rgba(0,0,0,.55),0 18px 40px rgba(0,0,0,.45),inset 0 0 0 2px rgba(255,235,200,.06),inset 0 0 60px rgba(0,0,0,.5);
 }
 .book::before{content:"";position:absolute;left:50%;top:1.5%;bottom:1.5%;width:14px;transform:translateX(-50%);background:linear-gradient(90deg,rgba(0,0,0,.55),rgba(255,235,200,.10) 50%,rgba(0,0,0,.55));border-radius:8px;z-index:1;pointer-events:none}
-.stack{position:absolute;top:5.1%;bottom:5.1%;width:11px;z-index:2;pointer-events:none;border-radius:3px}
-.stack.left{left:calc(5.1% - 11px);background:repeating-linear-gradient(180deg,#d9d0bd 0 2px,#b7ab93 2px 3px,#efe7d6 3px 5px);box-shadow:-3px 0 8px rgba(0,0,0,.35)}
-.stack.right{right:calc(5.1% - 11px);background:repeating-linear-gradient(180deg,#d9d0bd 0 2px,#b7ab93 2px 3px,#efe7d6 3px 5px);box-shadow:3px 0 8px rgba(0,0,0,.35)}
+.book .stack{position:absolute;top:5.1%;bottom:5.1%;width:11px;z-index:2;pointer-events:none;border-radius:3px}
+.book .stack.left{left:calc(5.1% - 11px);background:repeating-linear-gradient(180deg,#d9d0bd 0 2px,#b7ab93 2px 3px,#efe7d6 3px 5px);box-shadow:-3px 0 8px rgba(0,0,0,.35)}
+.book .stack.right{right:calc(5.1% - 11px);background:repeating-linear-gradient(180deg,#d9d0bd 0 2px,#b7ab93 2px 3px,#efe7d6 3px 5px);box-shadow:3px 0 8px rgba(0,0,0,.35)}
 .pages{position:absolute;inset:5.1%;transform-style:preserve-3d;z-index:3}
 .gutter{position:absolute;left:50%;top:0;bottom:0;width:26px;transform:translateX(-50%);background:linear-gradient(90deg,rgba(0,0,0,0),rgba(0,0,0,.22) 48%,rgba(0,0,0,.26) 52%,rgba(0,0,0,0));pointer-events:none;z-index:8}
 
