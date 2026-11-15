@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://kovidh-sketchbook.vercel.app">
+<a href="https://pandraladharmakovid-cyber.github.io/pandraladharmakovid-cyber/sketchbook/">
   <img src="https://raw.githubusercontent.com/pandraladharmakovid-cyber/pandraladharmakovid-cyber/main/assets/page-turn.gif" width="100%" alt="Pandrala Dharma Kovidh — a physically flipping portfolio sketchbook. Click to open the interactive book."/>
 </a>
 
@@ -13,7 +13,7 @@ Hyderabad, India — building private AI, autonomous agents, and production web 
 
 <br>
 
-<a href="https://kovidh-sketchbook.vercel.app"><img src="https://img.shields.io/badge/OPEN_THE_SKETCHBOOK-2b2721?style=for-the-badge&logo=bookstack&logoColor=fff7f0&labelColor=9a6a3e" alt="Open the interactive sketchbook"/></a>
+<a href="https://pandraladharmakovid-cyber.github.io/pandraladharmakovid-cyber/sketchbook/"><img src="https://img.shields.io/badge/OPEN_THE_SKETCHBOOK-2b2721?style=for-the-badge&logo=bookstack&logoColor=fff7f0&labelColor=9a6a3e" alt="Open the interactive sketchbook"/></a>
 <a href="https://kovidh-portfolio.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-9a6a3e?style=for-the-badge&logo=vercel&logoColor=fff7f0&labelColor=2b2721" alt="Portfolio"/></a>
 <a href="https://github.com/pandraladharmakovid-cyber"><img src="https://img.shields.io/badge/GITHUB-2b2721?style=for-the-badge&logo=github&logoColor=fff7f0&labelColor=9a6a3e" alt="GitHub"/></a>
 <a href="https://www.linkedin.com/in/pandrala-dharma-kovidh-0b1b36357/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2b2721" alt="LinkedIn"/></a>
@@ -53,12 +53,12 @@ Hyderabad, India — building private AI, autonomous agents, and production web 
 
 ### Plate index
 
-<a href="https://kovidh-sketchbook.vercel.app/?plate=0"><img src="https://raw.githubusercontent.com/pandraladharmakovid-cyber/pandraladharmakovid-cyber/main/assets/plate-0.jpg" width="32%" alt="Plate 01 — Cover"/></a>
-<a href="https://kovidh-sketchbook.vercel.app/?plate=1"><img src="https://raw.githubusercontent.com/pandraladharmakovid-cyber/pandraladharmakovid-cyber/main/assets/plate-1.jpg" width="32%" alt="Plate 02 — The Builder"/></a>
-<a href="https://kovidh-sketchbook.vercel.app/?plate=2"><img src="https://raw.githubusercontent.com/pandraladharmakovid-cyber/pandraladharmakovid-cyber/main/assets/plate-2.jpg" width="32%" alt="Plate 03 — The Arsenal"/></a>
-<a href="https://kovidh-sketchbook.vercel.app/?plate=3"><img src="https://raw.githubusercontent.com/pandraladharmakovid-cyber/pandraladharmakovid-cyber/main/assets/plate-3.jpg" width="32%" alt="Plate 04 — Featured"/></a>
-<a href="https://kovidh-sketchbook.vercel.app/?plate=4"><img src="https://raw.githubusercontent.com/pandraladharmakovid-cyber/pandraladharmakovid-cyber/main/assets/plate-4.jpg" width="32%" alt="Plate 05 — The Shelf"/></a>
-<a href="https://kovidh-sketchbook.vercel.app/?plate=5"><img src="https://raw.githubusercontent.com/pandraladharmakovid-cyber/pandraladharmakovid-cyber/main/assets/plate-5.jpg" width="32%" alt="Plate 06 — Correspondence"/></a>
+<a href="https://pandraladharmakovid-cyber.github.io/pandraladharmakovid-cyber/sketchbook//?plate=0"><img src="https://raw.githubusercontent.com/pandraladharmakovid-cyber/pandraladharmakovid-cyber/main/assets/plate-0.jpg" width="32%" alt="Plate 01 — Cover"/></a>
+<a href="https://pandraladharmakovid-cyber.github.io/pandraladharmakovid-cyber/sketchbook//?plate=1"><img src="https://raw.githubusercontent.com/pandraladharmakovid-cyber/pandraladharmakovid-cyber/main/assets/plate-1.jpg" width="32%" alt="Plate 02 — The Builder"/></a>
+<a href="https://pandraladharmakovid-cyber.github.io/pandraladharmakovid-cyber/sketchbook//?plate=2"><img src="https://raw.githubusercontent.com/pandraladharmakovid-cyber/pandraladharmakovid-cyber/main/assets/plate-2.jpg" width="32%" alt="Plate 03 — The Arsenal"/></a>
+<a href="https://pandraladharmakovid-cyber.github.io/pandraladharmakovid-cyber/sketchbook//?plate=3"><img src="https://raw.githubusercontent.com/pandraladharmakovid-cyber/pandraladharmakovid-cyber/main/assets/plate-3.jpg" width="32%" alt="Plate 04 — Featured"/></a>
+<a href="https://pandraladharmakovid-cyber.github.io/pandraladharmakovid-cyber/sketchbook//?plate=4"><img src="https://raw.githubusercontent.com/pandraladharmakovid-cyber/pandraladharmakovid-cyber/main/assets/plate-4.jpg" width="32%" alt="Plate 05 — The Shelf"/></a>
+<a href="https://pandraladharmakovid-cyber.github.io/pandraladharmakovid-cyber/sketchbook//?plate=5"><img src="https://raw.githubusercontent.com/pandraladharmakovid-cyber/pandraladharmakovid-cyber/main/assets/plate-5.jpg" width="32%" alt="Plate 06 — Correspondence"/></a>
 
 </div>
 
