@@ -205,6 +205,7 @@ addEventListener('keydown',e=>{ if(e.key==='Escape') closeModal(); });
 let startX=0,startY=0,lastT=0,lastP=0,moved=0;
 bookFrame.addEventListener('pointerdown',e=>{
   if(shotMode||turning||modal.classList.contains('open')) return;
+  if(e.target.closest && e.target.closest('.hotspot')) return;
   if(introActive){introCancelled=true;return;}
   const r=pages.getBoundingClientRect();
   const dir=e.clientX<r.left+r.width/2?-1:1;
@@ -219,9 +220,10 @@ stage.addEventListener('pointermove',e=>{
     const now=performance.now(), dt=(now-lastT)/1000; if(dt>0){const inst=(np-lastP)/dt; vel=vel*.7+inst*.3;}
     lastP=np; lastT=now; renderFrame(np); return; }
   if(shotMode) return;
+  if(e.target.closest && e.target.closest('.hotspot,.modal,.toolbar,.plate-index')){ bookTilt.style.transform='rotateX(0deg) rotateY(0deg)'; if(loupeOn) moveLoupe(e); return; }
   const r=bookFrame.getBoundingClientRect();
   const nx=(e.clientX-r.left)/r.width-.5, ny=(e.clientY-r.top)/r.height-.5;
-  bookTilt.style.transform=`rotateX(${clamp(-ny*9,-4.5,4.5)}deg) rotateY(${clamp(nx*14,-7,7)}deg)`;
+  bookTilt.style.transform=`rotateX(${clamp(-ny*6,-3,3)}deg) rotateY(${clamp(nx*10,-5,5)}deg)`;
   if(loupeOn) moveLoupe(e);
 });
 function endDrag(e){ if(!dragging) return; dragging=false; try{bookFrame.releasePointerCapture(e.pointerId);}catch(_){}
