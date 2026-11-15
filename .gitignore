@@ -1,0 +1,15 @@
+node_modules/
+tools/*.png
+tools/*.jpg
+tools/gif-frames/
+tools/spreads.html
+tools/render_spreads.js
+tools/qa*
+tools/dbg*
+tools/preview*
+tools/full*
+tools/cv-*
+tools/z-*
+tools/fix*
+tools/final-*
+.DS_Store

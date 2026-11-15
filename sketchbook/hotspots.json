@@ -1,0 +1,212 @@
+[
+  {
+    "id": "cover",
+    "items": [
+      {
+        "x": 4.090909090909091,
+        "y": 50.443548387096776,
+        "w": 12.291370738636363,
+        "h": 2.1774193548387095,
+        "href": "https://kovidh-portfolio.vercel.app",
+        "modal": null,
+        "label": "Open portfolio"
+      }
+    ]
+  },
+  {
+    "id": "about",
+    "items": [
+      {
+        "x": 3.697153004732999,
+        "y": 34.44972622779108,
+        "w": 16.128422130237926,
+        "h": 33.14818105389995,
+        "href": null,
+        "modal": "builder",
+        "label": "About Pandrala Dharma Kovidh"
+      }
+    ]
+  },
+  {
+    "id": "skills",
+    "items": [
+      {
+        "x": 4.090909090909091,
+        "y": 9.919354838709678,
+        "w": 41.81818181818182,
+        "h": 5.588457661290323,
+        "href": null,
+        "modal": "arsenal",
+        "label": "Open the full skill list"
+      },
+      {
+        "x": 54.09090909090909,
+        "y": 6.290322580645161,
+        "w": 41.81818181818182,
+        "h": 1.8548387096774193,
+        "href": null,
+        "modal": "arsenal",
+        "label": "Open the full skill list"
+      }
+    ]
+  },
+  {
+    "id": "featured",
+    "items": [
+      {
+        "x": 4.090909090909091,
+        "y": 9.919354838709678,
+        "w": 41.81818181818182,
+        "h": 38.43119959677419,
+        "href": null,
+        "modal": "neuron",
+        "label": "NEURON"
+      },
+      {
+        "x": 4.090909090909091,
+        "y": 48.35055443548387,
+        "w": 41.81818181818182,
+        "h": 35.7421875,
+        "href": null,
+        "modal": "findout",
+        "label": "Find_out"
+      },
+      {
+        "x": 54.09090909090909,
+        "y": 9.919354838709678,
+        "w": 41.81818181818182,
+        "h": 35.7421875,
+        "href": null,
+        "modal": "aitools",
+        "label": "AI Tools Directory"
+      }
+    ]
+  },
+  {
+    "id": "shelf",
+    "items": [
+      {
+        "x": 4.090909090909091,
+        "y": 9.919354838709678,
+        "w": 41.81818181818182,
+        "h": 17.193800403225808,
+        "href": null,
+        "modal": "agent",
+        "label": "AI Developer Agent"
+      },
+      {
+        "x": 4.090909090909091,
+        "y": 27.113155241935484,
+        "w": 41.81818181818182,
+        "h": 17.193800403225808,
+        "href": null,
+        "modal": "finsight",
+        "label": "FinSight"
+      },
+      {
+        "x": 4.090909090909091,
+        "y": 44.30695564516129,
+        "w": 41.81818181818182,
+        "h": 14.504788306451612,
+        "href": null,
+        "modal": "editorx",
+        "label": "EDITOR X"
+      },
+      {
+        "x": 4.090909090909091,
+        "y": 58.811743951612904,
+        "w": 41.81818181818182,
+        "h": 17.193800403225808,
+        "href": null,
+        "modal": "phishguard",
+        "label": "PhishGuard"
+      },
+      {
+        "x": 54.09090909090909,
+        "y": 9.919354838709678,
+        "w": 41.81818181818182,
+        "h": 17.193800403225808,
+        "href": null,
+        "modal": "ridelink",
+        "label": "RideLink"
+      },
+      {
+        "x": 54.09090909090909,
+        "y": 27.113155241935484,
+        "w": 41.81818181818182,
+        "h": 17.193800403225808,
+        "href": null,
+        "modal": "unrestricted",
+        "label": "Unrestricted AI Interface"
+      },
+      {
+        "x": 54.09090909090909,
+        "y": 44.30695564516129,
+        "w": 41.81818181818182,
+        "h": 17.193800403225808,
+        "href": null,
+        "modal": "pydsa",
+        "label": "Python DSA"
+      }
+    ]
+  },
+  {
+    "id": "contact",
+    "items": [
+      {
+        "x": 4.090909090909091,
+        "y": 22.547883064516128,
+        "w": 41.81818181818182,
+        "h": 4.516129032258065,
+        "href": "https://kovidh-portfolio.vercel.app",
+        "modal": null,
+        "label": "Portfolio"
+      },
+      {
+        "x": 4.090909090909091,
+        "y": 27.064012096774192,
+        "w": 41.81818181818182,
+        "h": 4.516129032258065,
+        "href": "https://github.com/pandraladharmakovid-cyber",
+        "modal": null,
+        "label": "GitHub"
+      },
+      {
+        "x": 4.090909090909091,
+        "y": 31.58014112903226,
+        "w": 41.81818181818182,
+        "h": 4.516129032258065,
+        "href": "https://www.linkedin.com/in/pandrala-dharma-kovidh-0b1b36357/",
+        "modal": null,
+        "label": "LinkedIn"
+      },
+      {
+        "x": 4.090909090909091,
+        "y": 36.09627016129032,
+        "w": 41.81818181818182,
+        "h": 4.516129032258065,
+        "href": "https://www.instagram.com/pandraladharmakovidh/",
+        "modal": null,
+        "label": "Instagram"
+      },
+      {
+        "x": 4.090909090909091,
+        "y": 40.612399193548384,
+        "w": 41.81818181818182,
+        "h": 4.516129032258065,
+        "href": "mailto:pandraladharmakovidh@gmail.com",
+        "modal": null,
+        "label": "Email"
+      },
+      {
+        "x": 4.090909090909091,
+        "y": 45.12852822580645,
+        "w": 41.81818181818182,
+        "h": 4.516129032258065,
+        "href": "tel:+917989509001",
+        "modal": null,
+        "label": "Phone"
+      }
+    ]
+  }
+]

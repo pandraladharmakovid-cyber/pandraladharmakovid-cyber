@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Pandrala Dharma Kovidh — Portfolio Sketchbook</title>
+<meta name="description" content="A physically flipping sketchbook of projects, skills, and field notes by Pandrala Dharma Kovidh.">
+<link rel="stylesheet" href="style.css">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='12' fill='%23ece7dc'/%3E%3Ctext x='32' y='44' font-size='34' text-anchor='middle' font-family='Georgia' fill='%232b2721'%3EKD%3C/text%3E%3C/svg%3E">
+</head>
+<body>
+<div class="loading" id="loading"><div class="loading-card">Binding the sketchbook…</div></div>
+
+<div class="toolbar" role="toolbar" aria-label="Sketchbook controls">
+  <button id="btnPrev" class="tb" aria-label="Previous page">‹ Turn</button>
+  <button id="btnNext" class="tb primary" aria-label="Next page">Turn ›</button>
+  <span class="tb-sep"></span>
+  <button id="btnZoomOut" class="tb" aria-label="Zoom out">−</button>
+  <button id="btnZoomIn" class="tb" aria-label="Zoom in">+</button>
+  <button id="btnZoomReset" class="tb" aria-label="Reset zoom">Reset</button>
+  <span class="tb-sep"></span>
+  <button id="btnLoupe" class="tb" aria-pressed="false" aria-label="Toggle loupe">Loupe</button>
+  <button id="btnRead" class="tb" aria-label="Readable text view">Read</button>
+  <a class="tb" href="https://kovidh-portfolio.vercel.app" target="_blank" rel="noopener">Portfolio ↗</a>
+</div>
+
+<main class="stage" id="stage">
+  <div class="book-frame" id="bookFrame">
+    <div class="book-zoom" id="bookZoom">
+      <div class="book-tilt" id="bookTilt">
+        <div class="book" id="book">
+          <span class="stack left"></span><span class="stack right"></span>
+          <div class="pages" id="pages">
+            <div class="base">
+              <div class="page left" id="baseLeft"></div>
+              <div class="page right" id="baseRight"></div>
+              <div class="cast" id="cast"></div>
+            </div>
+            <canvas id="curlCanvas" aria-hidden="true"></canvas>
+            <div class="hotspots" id="hotspots"></div>
+            <div class="gutter"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="loupe" id="loupe" aria-hidden="true"></div>
+  </div>
+</main>
+
+<nav class="plate-index" id="plateIndex" aria-label="Plate index"></nav>
+<div class="hint" id="hint">Drag a page corner, click a side, or use ← → · double-click to reset zoom</div>
+<div class="caption" id="caption"><span id="capTitle">Cover</span><span class="cap-folio" id="capFolio">01 / 06</span></div>
+
+<div class="modal" id="modal" aria-hidden="true" role="dialog" aria-modal="true">
+  <div class="modal-card" id="modalCard"></div>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>
